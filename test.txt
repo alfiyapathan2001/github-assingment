@@ -18,4 +18,3 @@ git push
 Send your commits to the primary repository.
 
 git pull
-Grab other commits from the primary repository.
